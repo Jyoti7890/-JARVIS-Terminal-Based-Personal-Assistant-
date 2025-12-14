@@ -1,4 +1,4 @@
-## Jarvis - AI Chatbot Using Python
+## JARVIS – Terminal-Based Personal Assistant
 
 This is my Jarvis chatbot with python can perform many tasks like playing music, analyze CSV files , manage your schedules by giving command.
 Jarvis is here to assist you whether it can help with searching the web, managing tasks and much more.
@@ -72,6 +72,7 @@ https://drive.google.com/file/d/1OI0e707EEUlOoso3YBL-JnR8RFXoSyHa/view?usp=shari
 
 ### Contributing
 Feel free to fork this repository and submit pull requests with improvements and bug fixes.
+
 
 
 
